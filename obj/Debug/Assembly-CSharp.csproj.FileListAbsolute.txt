@@ -1,0 +1,2 @@
+C:\Users\doug\Documents\Unity Projects\2D Projects\Star Blocks\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\doug\Documents\Unity Projects\2D Projects\Star Blocks\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
